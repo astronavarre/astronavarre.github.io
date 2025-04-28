@@ -1,15 +1,15 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Talks and Presentations"
 permalink: /talks/
 author_profile: true
 ---
 
-{% if site.talkmap_link == true %}
+<p>See  a map of all the places I've talked about my work!</p>
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+<iframe src="/talkmap/map.html" height="400" width="700" style="border:none;"></iframe>
 
-{% endif %}
+<p><h2><u>Talk List</u></h2></p>
 
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}

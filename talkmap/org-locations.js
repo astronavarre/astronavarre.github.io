@@ -1,22 +1,27 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.4893335,
-    -0.14405508452768728
+    "Characterizing Strongly Lensed Lyman-Alpha Emitting Galaxies at z > 4<br />Roman Science Inspired by Emerging JWST Results, Space Telescope Science Institute; Baltimore, MD, USA",
+    39.2908816,
+    -76.610759
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Characterizing Strongly Lensed Lyman-Alpha Galaxies at z > 4<br />Escape of Lyman Radiation from Galactic Labyrinths, Orthodox Academy of Crete; Kolymbari, Crete, Greece",
+    35.4818829,
+    23.7542415
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "Characterizing Strongly Lensed Lyman-Alpha Emitting Galaxies at z > 4<br />American Astronomical Society 240th Meeting, Pasadena Convention Center; Pasadena, CA, USA",
+    34.1476507,
+    -118.144155
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7792588,
-    -122.4193286
+    "Clumpy vs. Extended Lyman Alpha Emitters at High Redshift<br />University of Cincinnati, Geophysics Building; Cincinnati, OH, USA",
+    39.1014537,
+    -84.5124602
+  ],
+  [
+    "Characterizing Strongly Lensed Lyman-Alpha Emitting Galaxies at z > 4<br />Gemini Science Meeting, Millenium Hilton Seoul; Seoul, South Korea",
+    37.5666791,
+    126.9782914
   ]
 ];
