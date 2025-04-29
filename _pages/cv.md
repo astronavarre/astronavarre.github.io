@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+[Download my Resume Here](/files/Navarre_Resume.pdf) <br>
+<img src="/files/Navarre_Resume-1.png" alt="drawing" width="200"/>
+
 Education
 ======
 * Ph.D in Astrophysics, University of Cincinnati, 2024
