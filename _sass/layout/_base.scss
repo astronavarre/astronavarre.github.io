@@ -7,10 +7,24 @@ html {
   min-height: 100%;
 }
 
+@keyframes move-twinkling-back {
+  from {background-position: 0 0, 0 0;}
+  to {background-position: -10000px 5000px, 0 0;}
+}
+
 body {
   /* Set via _themes.scss */
   color: var(--global-text-color);
-  background-color: var(--global-bg-color);
+  /*background-color: var(--global-bg-color);*/
+  background-color: #000;
+  background-image: url(/images/twinkling.png), url(/images/stars.png);
+  background-position: top center, top center;
+  background-repeat: repeat, repeat;
+  background-size: 2.5%, 100%;
+  animation-name: move-twinkling-back;
+  animation-duration: 4000s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
 
   margin: 0;
   padding: $masthead-height 0 0;
