@@ -21,30 +21,35 @@ Work experience
 ======
 * May 2024 - August 2024: **Postdoctoral Researcher** \
 Postdoctoral Researcher under the astrophysics research group led by Professor Matthew Bayliss. Contributed to the research goals of the SGAS collaboration.
-  * Developed state-of-the-art Python code to model distorted astronomical objects.
-  * Performed quality assurance by testing code output across 5 different astronomical fields.
-  * Discovered and documented critical limitations of the code for data of specific quality.
-  * Authored the first official usage guide on the above-mentioned software.
-  * Created install and use guides for multiple research softwares for junior and future group members.
+  * Developed advanced Python code to model distorted astronomical objects.
+  * Conducted quality assurance by testing code output across 5 distinct astronomical fields.
+  * Identified and documented critical limitations of code for specific data quality.
+  * Created installation and user guides for research software programs for current and future collaboration members.
+  * Mentored junior researchers, enhancing their skills and supporting their career development.
 
 * October 2019 - May 2024: **Graduate Researcher Assistant** \
 Graduate Student Researcher under the astrophysics research group led by Professor Matthew Bayliss. Completed a PhD in physics with a concentration in astrophysics. Presented work at multiple conferences domestic and abroad.
-  * Conducted extensive Bayesian analysis on Hubble Space Telescope Data to estimate physical properties of galaxies.
-  * Developed morphological models of bright galaxies to separate their light profiles from fainter objects of interest.
-  * Wrote over 6000 lines of custom python code to analyze spectra and images, visualizing insights with matplotlib for publications.
-  * Published a research paper as first author in the Astrophysical Journal.
+  * Utilized advanced statistical software to analyze large datasets, uncovering key insights for informed decision making. 
+  * Participated in regular meetings with project supervisor, providing progress updates and discussing potential challenges or areas for improvement. 
+  * Authored over 6000 lines of custom Python code for spectral and image analysis.
+  * Published a first-author research paper in The Astrophysical Journal.
+  * Presented research findings at conferences and workshops, fostering professional growth and collaboration within the academic community.
 
 * August 2018 - January 2020: **Graduate Teaching Assistant** \
 Teaching Assistant for introductory physics lectures, labs, and discussion sections. See [Teaching](https://astronavarre.github.io/teaching)
-  * Led discussion sections for 20+ students 3x per week to enhance understanding of class material and promote group problem-solving.
-  * Conducted laboratory classes for 30+ students on classical mechanics with physical demonstrations to teach proper scientific practices.
-  * Assisted lecturers by providing one-on-one student support during class.
+  * Led discussion sections for 20+ students 3x per week to enhance understanding of class material and promote group problem-solving. 
+  * Conducted laboratory classes for 30+ students on classical mechanics with physical demonstrations to teach proper scientific practices. 
+  * Assisted lecturers by providing one-on-one student support during class. 
+  * Checked assignments, proctored tests and provided grades according to university standards. 
+  * Developed strong rapport with students through open communication channels, fostering an inclusive learning environment. 
 
 * January 2015 - May 2024: **Undergraduate Research Assistant** \
-Undergraduate Student Researcher under the astrophysics research groups led by Professors Jeffrey Filippini and Joaquin Vieira. Aided in many smaller research tasks across a variety of subjects.
-  * Designed and created jigs for building and testing a balloon-borne telescope on the SPIDER 2 project.
-  * Aided in the physical monitoring of the telescope during cryogenic tests.
-  * Analyzed 100+ astronomical fields for evidence of newly discovered, gravitationally-lensed quasars.
+Undergraduate Student Researcher under the astrophysics research groups led by Professors Jeffrey Filippini and Joaquin Vieira.
+  * Developed skills in various research methodologies, ensuring high-quality work across diverse projects.
+  * Designed and fabricated jigs for construction and testing of balloon-borne telescope on SPIDER 2 project.
+  * Conducted physical monitoring of telescopes during cryogenic tests to ensure optimal performance.
+  * Analyzed over 100 astronomical fields for evidence of newly discovered gravitationally lensed quasars.
+  * Recorded data and maintained source documentation following good documentation practices.
   
 Skills
 ======
