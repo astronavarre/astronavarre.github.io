@@ -1,0 +1,8 @@
+#! 0-astronavarregithubio-namespace.yaml
+# Generated code, do not edit
+apiVersion: v1
+kind: Namespace
+metadata:
+    name: astronavarregithubio
+    labels:
+        com.docker.compose.project: astronavarregithubio
