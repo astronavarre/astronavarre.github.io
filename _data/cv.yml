@@ -1,10 +1,11 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Alexander E. Navarre
+  label: Data Scientist / Astrophysics PhD
+  email: aenavarre@proton.me
+  location: Milwaukee, WI
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: Specialist in Bayesian statistical modeling and high-dimensional data analysis, with expertise in Python and scientific computing. Data scientist with a PhD in astrophysics, with a strong foundation in data analysis, data visualization, and statistical modeling. Proven ability to present complex results to both technical and non-technical audiences.
+
 
   social_networks:
     - network: X
@@ -15,175 +16,184 @@ cv:
       username: example
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
+    #street: 
+    city: Milwaukee
+    region: Wisconsin
+    postalCode: WI 53207
     countryCode: US
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
+      - institution: University of Cincinnati
+        location: Cincinnati, Ohio, US
+        url: https://www.uc.edu/
+        area: Astrophysics
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
+        start_date: 2018
+        end_date: 2024
         score: ""
-        courses: "Theory of Relativity"
+        courses: "Astrophysics, Particle Physics, General Relativity, Electromagnetism, Quantum Mechanics, Thermodynamics"
         highlights:
-          - Description 1.
-          - Description 2.
+          - Published thesis in the Astrophysical Journal
+          - Presented research at meetings in the USA, South Korea, and Greece
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
+      - institution: University of Illinois at Urbana-Champaign
+        location: Urbana, Illinois, US
+        url: https://illinois.edu/
         area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+        studyType: BS
+        start_date: 2014
+        end_date: 2018
+        courses: "Astrophysics, Special Relativity, Electromagnetism, Quantum Mechanics, Classical Mechanics, Thermodynamics"
         highlights:
-          - Description 1.
-          - Description 2.
+          - Gained hands on experience with cryogenics, imaging instrumentation, and data collection
+          - Was featured in the university's Undergraduate Research Week newsletter
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Ben's Cycle
+        position: Inventory and Product Specialist
+        location: Milwaukee, WI, US
+        start_date: 2026
+        end_date: present
+        #summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
         highlights:
-          - Relativity
-          - Description 2.
+          - Researched, priced, and listed cycling inventory across modern and vintage product lines using market data and condition assessment.
+          - Managed end-to-end product pipeline for an expanded catalog following acquisition of Euro-Asia Imports.
+          - Performed product photography and post-processing image editing for e-commerce listings.
+          - Applied systematic research and structured data workflows to support accurate, competitive pricing decisions.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Handshake AI
+        position: AI Training Specialist
+        location: Remote, US
+        start_date: 2025
+        end_date: 2026
         highlights:
-          - Description 1.
-          - Description 2.
+          - Designed high-difficulty prompts in physics and astronomy to test the limits of large AI models via text and image-based reasoning.
+          - Collaborated with other domain experts to ensure prompt clarity and scientific rigor.
+          - Provided structured feedback on peer-submitted prompts to enhance quality, diversity, and consistency in relevant failure modes.
+          - Designed coding evaluation tasks with defined inputs and expected outputs to benchmark LLM code generation capabilities across problem types.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: University of Cincinnati
+        position: Postdoctoral Researcher
+        location: Cincinnati, Ohio, US
+        start_date: 2024
+        end_date: 2024
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - Built and validated a Python modeling pipeline for morphological analysis of gravitationally lensed galaxies, tested across 5 distinct observational fields.
+          - Identified and documented critical limitations of code for specific data quality.
+          - Created installation and user guides for research software programs for current and future collaboration members.
+          - Mentored junior researchers, enhancing their skills and supporting their career development.
 
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - company: University of Cincinnati
+        position: Graduate Research Assistant
+        location: Cincinnati, Ohio, US
+        start_date: 2019
+        end_date: 2024
+        highlights:
+          - Applied MCMC-based Bayesian modeling and linear algebraic models to high-dimensional spectral and imaging data from HST and JWST to constrain physical parameters of high-redshift galaxies.
+          - Authored over 6000 lines of custom Python code for spectral and image analysis.
+          - Published a first-author research paper in The Astrophysical Journal.
+          - Presented research findings at conferences and workshops, fostering professional growth and collaboration within the academic community.
+          - Contributed to the SGAS collaboration, a multi-institutional research team, by performing specialized spectral and morphological analysis and supporting shared data pipelines.
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - company: University of Cincinnati
+        position: Graduate Teaching Assistant
+        location: Cincinnati, Ohio, US
+        start_date: 2018
+        end_date: 2020
+        highlights:
+          - Led discussion sections for 20+ students 3x per week to enhance understanding of class material and promote group problem-solving.
+          - Conducted laboratory classes for 30+ students on classical mechanics with physical demonstrations to teach proper scientific practices.
+          - Assisted lecturers by providing one-on-one student support during class.
+          - Checked assignments, proctored tests and provided grades according to university standards.
+          - Developed strong rapport with students through open communication channels, fostering an inclusive learning environment.
+          - Assisted lecturers by providing one-on-one student support during class.
+
+      - company: University of Illinois at Urbana-Champaign
+        position: Undergraduate Research Assistant
+        location: Urbana, Illinois, US
+        start_date: 2015
+        end_date: 2018
+        highlights:
+          - Developed skills in various research methodologies, ensuring high-quality work across diverse projects.
+          - Designed and fabricated jigs for construction and testing of balloon-borne telescope on SPIDER 2 project.
+          - Conducted physical monitoring of telescopes during cryogenic tests to ensure optimal performance.
+          - Analyzed over 100 astronomical fields for evidence of newly discovered gravitationally lensed quasars.
+          - Recorded data and maintained source documentation following good documentation practices.
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: Resolving Clumpy versus Extended Lyα in Strongly Lensed, High-redshift Lyα Emitters
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - Alexander E Navarre
+          - Gourav Khullar
+          - Matthew Bayliss
+          - Hakon Dahle
+          - Michael Florian
+          - Michael Gladders
+          - Keunho Kim
+          - Riley Owens
+          - Jane Rigby
+          - Joshua Roberson
+          - Keren Sharon
+          - Takatoshi Shibuya
+          - Ryan Walker
+        publisher: The Astrophysical Journal
+        releaseDate: 2024-02-20
+        url: https://iopscience.iop.org/article/10.3847/1538-4357/ad10ad/pdf
+        summary: We present six strongly gravitationally lensed Lyα emitters (LAEs) at z ∼ 4-5 with Hubble Space Telescope (HST) narrowband imaging isolating Lyα. We find a suggestive trend -- our LAEs with clumpy Lyα are generally younger than the LAEs with extended Lyα, suggesting a possible correlation with age. 
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
 
     Skills:
       - name: Physics
         level: Master
         icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "Astrophysics, Classical Mechanics, Electromagnetism, Thermodynamics, Quantum Physics"
+      
+      - name: Observational Astronomy
+        level: Master
+        icon: fa-solid fa-hashtag
+        keywords: "CCD Imaging, Imaging Analysis, Spectral Analysis, PSF modeling, Scientific Writing"
+
+      - name: Python
+        level: Adept
+        icon: fa-solid fa-hashtag
+        keywords: "Numpy, Scipy, SciKit-Learn, Matplotlib, Pandas"
+
+      - name: Statistics
+        level: Experienced
+        icon: fa-solid fa-hashtag
+        keywords: "Baysean Modeling, MCMC, correlation, signal-to-noise"
+
+      - name: Machine Learning
+        level: Adept
+        icon: fa-solid fa-hashtag
+        keywords: "GLR, Non-Linear Regression, Random Forest, SVM, KNN, Clustering"
 
     Languages:
-      - name: German
+      - name: English
         summary: "Native speaker"
 
-      - name: English
-        summary: "Fluent"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: French
+        summary: "Basic Knowledge -- speaking, reading, and writing"
 
     Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+      - name: Data Science Professional Certificate (ID -- FL25WZXTQ58N)
+      - date: 2024-01-01
+      - issuer: Issued from IBM via Coursera
 
     References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Professor Matthew Bayliss
+        icon: fa-solid fa-user
+        reference: PhD Advisor
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Professor Keren Sharon
+        icon: fa-solid fa-user
+        reference: Previous Collaborator
+
+      - name: Postdoctoral Scholar Gourav Khullar
+        icon: fa-solid fa-user
+        reference: Previous Collaborator
+
+      - name: Business Owner Vince Hanoski
+        icon: fa-solid fa-user
+        reference: Business Owner, Current Lead Supervisor

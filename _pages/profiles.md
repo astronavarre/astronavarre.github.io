@@ -2,8 +2,8 @@
 layout: profiles
 permalink: /people/
 title: people
-description: members of the lab or group
-nav: true
+description: How did you get here? This page isnt in use.
+nav: false
 nav_order: 7
 
 profiles:
